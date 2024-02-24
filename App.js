@@ -7,6 +7,7 @@ import { LogBox } from "react-native";
 const Stack = createNativeStackNavigator();
 
 //screens
+
 import Onboarding from "./Screens/Onboarding";
 import Login from "./Screens/Login";
 import Signup from "./Screens/Signup";
